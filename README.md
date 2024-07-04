@@ -1,5 +1,5 @@
 # React-Form
-Link para o deploy: https://react-form-nu9z2d3mh-lukaznata.vercel.app/
+Link para o deploy: https://react-form-lukaznata.vercel.app/
 
 vantagens do react-hook-form
 
